@@ -3,6 +3,7 @@
     "compilerOptions": {
         "target": "ES2020",
         "outDir": "src/dotcom/dist",
+        "rootDir": "./src",
         "declaration": true,
         "declarationMap": true,
         "isolatedModules": false,
